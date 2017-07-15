@@ -1,0 +1,27 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+TITLE: schoolboy
+#+DATE: <2017-07-14 Fri>
+#+AUTHOR: Wellesley Shumway
+#+EMAIL: wkshumway@Wellesleys-MacBook-Pro.local
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.2.1 (Org mode 9.0.7)
+* Boy
+** Brad
+** Computer Nerd
+** 16
+** Finding a girl
+
+* Girl
+** Tessa
+** Not self-concious hippie
+** 18
+** Hakuna matata
+
+* ...but I guess none of that really mattered; it was time for school.
+* and with that, he went to lunch.
+* but finally it came: Friday night
