@@ -23,5 +23,28 @@
 ** Hakuna matata
 
 * ...but I guess none of that really mattered; it was time for school.
+Heading straight for his favorite teacher's office, Brad decided not to try to
+finish his English reading before the bell rang. Mr. McChesney was a wonder. He
+wore patterned shirts and bow ties that clashed everyday. But what was special
+about him was his resume of enormous and odd computing accomplishments. Brad
+spent as much time in his office as possible, though that usually only happened
+in the morning. Mr McChesney was always full of stories. Usually, the stories
+were about computing exploits, inventions, or world travel. Today was different.
+Brad had gotten the courage to ask Mr. M how he had ended up in this small town
+high school. It turned out that Mr. M's wife was from here, though Mr. M. was
+from Ireland. Mr. M's wife had loved this place and had always wanted to settle
+down here. It had been her lifelong dream. After she passed away Mr. M carried
+out their retirement plans. Brad had never known that that kind of devotion
+happened to gritty computer people in their old age. He went to the rest of his
+classes, talked to some friends about the ethics of hacking,
 * and with that, he went to lunch.
 * but finally it came: Friday night
+Tessa was still a mystery. Not only was she not interested in computers, she was
+interested in rocks, trees, birds and mountains. Those things were about as far
+away from computers as you can get. Brad new that she liked beautiful things
+though, and Mr. McChesney always said, "There's nothing more beautiful than an
+elegant algorithm." So he set out to make something that Tessa would thing was
+pretty. At 10, he met her in the park and showed her a graphing program that
+made fractals. She was a little distracted the whole time, but at the end, she
+held his hand. He didn't care about fractals or global supercomputing
+conventions anymore. 
